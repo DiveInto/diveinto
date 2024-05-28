@@ -1,3 +1,5 @@
+something is brewing 🧪
+
 - 🚀 Chains: Ethereum, Binance Smart Chain, Polygon
 - 🔒 Smart Contracts: Solidity, Vyper
 - 🎨 NFT Standards: ERC-721, ERC-1155
