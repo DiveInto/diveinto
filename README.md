@@ -1,5 +1,14 @@
 ### 🤔
 
+🚀 Chains: Ethereum, Binance Smart Chain, Polygon
+🔒 Smart Contracts: Solidity, Vyper
+🎨 NFT Standards: ERC-721, ERC-1155
+🛠️ dApps: Ethers.js, Forge
+💻 Front-End: React, Next.js
+🌐 Back-End: Node.js, Go
+📦 Databases: MongoDB, IPFS
+🛠️ Tools: Git, Docker, VS Code
+
 <!--
 **DiveInto/diveinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
