@@ -6,8 +6,6 @@
 - 🛠️ dApps: Ethers.js, Forge
 - 💻 Front-End: React, Next.js
 - 🌐 Back-End: Node.js, Go
-- 📦 Databases: MongoDB, IPFS
-- 🛠️ Tools: Git, Docker, VS Code
 
 <!--
 **DiveInto/diveinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
