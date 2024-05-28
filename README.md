@@ -1,4 +1,4 @@
-something is brewing 🧪
+🧪 something is brewing 
 
 - 🚀 Chains: Ethereum, Binance Smart Chain, Polygon
 - 🔒 Smart Contracts: Solidity, Vyper
